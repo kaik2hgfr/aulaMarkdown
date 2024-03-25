@@ -16,3 +16,14 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+# engenhearia de requisitos
+
+#conseito 
+
+###
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+####
+![image05](https://github.com/kaik2hgfr/aulaMarkdown/assets/164562207/32229488-2684-46fb-a8fa-712479ddead3)
+
